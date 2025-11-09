@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.ipynb
+
+# Database
+database.db
+
+# Uploaded images
+data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
